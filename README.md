@@ -7,3 +7,5 @@
   
 
 ```npm install react```
+
+sistema de registro 2
